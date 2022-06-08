@@ -2,9 +2,9 @@
 古早的python各項練習產物整理，以後會做得較小的練習也會放在這裡
 
 ## pygame
-練習pygame的產物
+練習pygame的產物 \n
 
-be the one/ 為看完選秀的產物，本人之後非常後悔但是畢竟做了就放上來了
+be the one/ 為看完選秀的產物，本人之後非常後悔但是畢竟做了就放上來了 \n
 DEMO LIKE : https://www.instagram.com/p/CWOYJQ2hfJfgxA0olxMOW6HR5XmRUEy71RwQgk0/?igshid=YmMyMTA2M2Y=
 
 ## django 
